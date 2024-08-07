@@ -1,0 +1,176 @@
+{
+    "1": {
+        "nimi": "Bolognese",
+        "taytteet": [
+            "jauheliha"
+        ]
+    },
+    "2": {
+        "nimi": "Frutti di Mare",
+        "taytteet": [
+            "tonnikala",
+            "ananas",
+            "katkarapu"
+        ]
+    },
+    "3": {
+        "nimi": "Americano",
+        "taytteet": [
+            "ananas",
+            "kinkku",
+            "aurajuusto"
+        ]
+    },
+    "4": {
+        "nimi": "Opera Special",
+        "taytteet": [
+            "salami",
+            "tonnikala",
+            "kinkku"
+        ]
+    },
+    "5": {
+        "nimi": "Mexicana",
+        "taytteet": [
+            "ananas",
+            "chili",
+            "pepperoni",
+            "tacokastike"
+        ]
+    },
+    "6": {
+        "nimi": "Julia",
+        "taytteet": [
+            "ananas",
+            "kinkku",
+            "katkarapu",
+            "aurajuusto"
+        ]
+    },
+    "7": {
+        "nimi": "Empire Special",
+        "taytteet": [
+            "salami",
+            "sipuli",
+            "kinkku",
+            "mustapippuri",
+            "valkosipuli",
+            "katkarapu",
+            "tuplajuusto"
+        ]
+    },
+    "8": {
+        "nimi": "Kummiset\u00e4",
+        "taytteet": [
+            "kinkku",
+            "valkosipuli",
+            "katkarapu",
+            "herkkusieni"
+        ]
+    },
+    "9": {
+        "nimi": "Chicken Hawaii",
+        "taytteet": [
+            "ananas",
+            "kana",
+            "aurajuusto"
+        ]
+    },
+    "11": {
+        "nimi": "Romeo",
+        "taytteet": [
+            "salami",
+            "ananas",
+            "katkarapu",
+            "aurajuusto"
+        ]
+    },
+    "12": {
+        "nimi": "Vegetariana",
+        "taytteet": [
+            "paprika",
+            "tomaatti",
+            "herkkusieni",
+            "oliivi",
+            "sipuli"
+        ]
+    },
+    "13": {
+        "nimi": "Dillinger",
+        "taytteet": [
+            "salami",
+            "kinkku",
+            "jauheliha",
+            "sipuli"
+        ]
+    },
+    "14": {
+        "nimi": "Papas Special",
+        "taytteet": [
+            "salami",
+            "paprika",
+            "mustapippuri",
+            "aurajuusto",
+            "oliivi",
+            "sipuli"
+        ]
+    },
+    "15": {
+        "nimi": "Quattro Stagioni",
+        "taytteet": [
+            "kinkku",
+            "paprika",
+            "katkarapu",
+            "herkkusieni"
+        ]
+    },
+    "16": {
+        "nimi": "Cambretti",
+        "taytteet": [
+            "valkosipuli",
+            "katkarapu",
+            "tuplajuusto"
+        ]
+    },
+    "17": {
+        "nimi": "Pepperoni",
+        "taytteet": [
+            "tonnikala",
+            "paprika",
+            "pepperoni"
+        ]
+    },
+    "19": {
+        "nimi": "Spicy Hot Crispy",
+        "taytteet": [
+            "sipuli",
+            "mausteinen naudanliha",
+            "chili",
+            "tomaatti"
+        ]
+    },
+    "21": {
+        "nimi": "Finlandia",
+        "taytteet": [
+            "salami",
+            "tonnikala",
+            "kinkku",
+            "kana",
+            "katkarapu"
+        ]
+    },
+    "23": {
+        "nimi": "Drivers Special",
+        "taytteet": [
+            "salami",
+            "kinkku",
+            "pekoni",
+            "pepperoni",
+            "aurajuusto"
+        ]
+    },
+    "26": {
+        "nimi": "Fantasia",
+        "taytteet": []
+    }
+}
