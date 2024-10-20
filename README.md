@@ -2,6 +2,8 @@
 
 Tämä koodirepositorio sisältää Selkeästi Python -kirjan esimerkkiohjelmat.
 
+Kirjan kotisivu: [Selkeästi Python](https://coniferproductions.com/books/selpy/)
+
 Osta kirja:
 * [AdLibris](https://www.adlibris.com/fi/kirja/selkeasti-python-9789528083030)
 * [Suomalainen Kirjakauppa](https://www.suomalainen.com/products/selkeasti-python)
