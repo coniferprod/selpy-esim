@@ -1,0 +1,6 @@
+luku_teksti = input('Anna ensimmäinen luku: ')
+luku1 = int(luku_teksti)
+luku_teksti = input('Anna toinen luku: ')
+luku2 = int(luku_teksti)
+print(f'Lukujen {luku1} ja {luku2} summa on {luku1 + luku2}.')
+print(f'Niiden tulo on {luku1 * luku2}.')
